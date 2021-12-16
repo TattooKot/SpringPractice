@@ -1,0 +1,1 @@
+web: java  $JAVA_OPTS -jar target/SpringTestPractice-0.0.1-SNAPSHOT.jar --port $PORT
